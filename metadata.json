@@ -1,0 +1,6 @@
+{
+  "name": "O'zbek Ovoz AI",
+  "description": "Eng ilg'or o'zbek tili ovoz sintezlovchi va imlo tuzatish platformasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
